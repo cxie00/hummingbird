@@ -1,0 +1,8 @@
+
+sklearn_year_with_train_metrics.txt
+Pre-conversion pred average: 400.73 ms over 1000 runs 
+ Pre-conversion accuracy average: could not compute 
+Post-conversion average: 471.23 ms over 1000 runs 
+ Post-conversion accuracy average:  
+Post-conversion GPU average: 40.16 ms over 1000 runs 
+ Post-conversion GPU accuracy average: 

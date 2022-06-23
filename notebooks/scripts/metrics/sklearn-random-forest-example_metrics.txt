@@ -1,0 +1,8 @@
+
+sklearn-random-forest-example_metrics.txt
+Pre-conversion pred average: 2.28 ms over 10000 runs 
+ Pre-conversion accuracy average: 0.99824 
+Post-conversion average: 39.83 ms over 10000 runs 
+ Post-conversion accuracy average: 0.99824 
+Post-conversion GPU average: 0.60 ms over 10000 runs 
+ Post-conversion GPU accuracy average: 0.99824 

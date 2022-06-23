@@ -1,0 +1,6 @@
+
+LGBM-ONNX-example_metrics.txtt
+Pre-conversion pred average: 23.88 ms over 10000 runs 
+ Pre-conversion accuracy average: 0.92420 
+Post-conversion average: 22.34 ms over 10000 runs 
+ Post-conversion accuracy average: 0.92420 

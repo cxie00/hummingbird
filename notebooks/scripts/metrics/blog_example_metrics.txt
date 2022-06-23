@@ -1,0 +1,6 @@
+Pre-conversion pred average: 88.55 ms over 10000 runs 
+ Pre-conversion accuracy average: 0.99824 
+Post-conversion average: 10.39 ms over 10000 runs 
+ Post-conversion accuracy average: 0.99824 
+Post-conversion GPU average: 2.34 ms over 10000 runs 
+ Post-conversion GPU accuracy average: 0.99824 
